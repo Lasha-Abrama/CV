@@ -16,6 +16,8 @@
 }
 body {
   font-family: "Gotham", sans-serif;
+  width: 750px;
+  margin: auto;
 }
 
 .wrap {
@@ -330,3 +332,4 @@ main {
   transition: 0.3s ease;
   cursor: pointer;
 }
+
